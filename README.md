@@ -26,7 +26,4 @@ This project is a simple file compression and decompression tool using **C++**. 
 ./compress_tool decompress compressed.txt decompressed.txt
 ```
 
-## Requirements:
-- A C++ compiler supporting C++11 or later.
-- Basic command-line knowledge.
 
